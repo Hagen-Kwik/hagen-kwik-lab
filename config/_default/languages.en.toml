@@ -1,0 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Hagen Kwik's Lab"
+
+
+
+[params.author]
+  name = "Hagen Kwik"
+  image = "Screenshot_20250611_173534_Gmail.jpg"
+  headline = "Cybersecurity Researcher & AI Enthusiast"
+  links = [
+    { github = "https://github.com/Hagen-Kwik" },
+    { email = "mailto:hagen.kwik@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/hagen-kwik-151180267/" }
+  ] 
