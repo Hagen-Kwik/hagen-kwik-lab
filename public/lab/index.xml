@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Hagen Kwik&#39;s Lab</title>
+    <link>//localhost:1313/lab/</link>
+    <description>Recent content in Labs on Hagen Kwik&#39;s Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hagen Kwik</copyright>
+    <atom:link href="//localhost:1313/lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Writeup</title>
+      <link>//localhost:1313/lab/firstwu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/lab/firstwu/</guid>
+      <description>&lt;p&gt;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&lt;/p&gt;&#xA;&lt;p&gt;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

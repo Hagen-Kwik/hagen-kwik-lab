@@ -22,9 +22,8 @@ showScrollToTop = true
 layout = "background"  
 showRecent = false
 
-
-
 [article]
+layoutBackground = true
 showDate = true
 showDateUpdated = false
 showAuthor = true
@@ -56,13 +55,18 @@ sharingLinks = [
 editURL = ""
 
 [list]
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showBreadcrumbs = false
-showSummary = true
+showSummary = false
 showTableOfContents = false
 showCards = false
 groupByYear = true
 cardView = false
 cardViewScreenWidth = false
+showTaxonomies = true
 
 [sitemap]
 excludedKinds = [ ]

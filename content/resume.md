@@ -10,6 +10,23 @@ showShare: false
 
 {{< timeline >}}
 
+  {{< timelineItem badge="Nov 2025" >}}
+
+  <div style="display: flex; justify-content: space-between; align-items: center; ">
+    <div style="margin-right: 15px;">
+        <h3 style="margin: 0; font-size: 1.2rem; font-weight: bold;">Cybersecurity Training Participant</h3>
+        <span style="opacity: 0.8; font-size: 0.95rem;">Security Manpower Training (SMT)</span>
+    </div>
+    <img src="../smt.png" style="width: 60px; height: auto; object-fit: contain;" alt="s">
+  </div>
+
+  <ul>
+    <li>Participated in the National Cybersecurity Training Initiative organized by INKOR and NSHC.</li>
+    <li>Completed intensive Capture the Flag (CTF) and hands-on cybersecurity modules covering network & web attacks, malware analysis, and reverse engineering.</li>
+    <li>Selected for onsite advanced training in South Korea, which included malware analysis workshops, offensive security exercises, and company visits to cybersecurity firms.</li>
+  </ul>
+  {{< /timelineItem >}}
+
   {{< timelineItem badge="Sep 2024 – Dec 2024" >}}
   
   <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -25,24 +42,6 @@ showShare: false
     <li>Gained experience in project documentation, User Acceptance Testing (UAT), and proposal creation for enterprise clients.</li>
   </ul>
   {{< /timelineItem >}}
-
-  {{< timelineItem badge="Aug 2024 & Nov 2025" >}}
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; ">
-    <div style="margin-right: 15px;">
-        <h3 style="margin: 0; font-size: 1.2rem; font-weight: bold;">Cybersecurity Training Participant</h3>
-        <span style="opacity: 0.8; font-size: 0.95rem;">Security Manpower Training (SMT)</span>
-    </div>
-    <img src="../smt.png" style="width: 60px; height: auto; object-fit: contain;" alt="s">
-  </div>
-
-  <ul>
-    <li>Participated twice in the National Cybersecurity Training Initiative organized by INKOR and NSHC.</li>
-    <li>Completed intensive Capture the Flag (CTF) and hands-on cybersecurity modules covering network & web attacks, malware analysis, and reverse engineering.</li>
-    <li>Selected for onsite advanced training in South Korea, which included malware analysis workshops, offensive security exercises, and company visits to cybersecurity firms.</li>
-  </ul>
-  {{< /timelineItem >}}
-
 {{< /timeline >}}
 
 ---
@@ -51,8 +50,8 @@ showShare: false
 
 {{< timeline >}}
 
-  {{< timelineItem badge="2025" >}}
-  
+{{< timelineItem badge="2025" >}}
+
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="margin-right: 15px;">
         <h3 style="margin: 0; font-size: 1.2rem; font-weight: bold;">Bachelor of Computer Science</h3>
@@ -68,8 +67,8 @@ showShare: false
   </ul>
   {{< /timelineItem >}}
 
-  {{< timelineItem badge="Feb 2024 – June 2024" >}}
-  
+{{< timelineItem badge="Feb 2024 – June 2024" >}}
+
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="margin-right: 15px;">
         <h3 style="margin: 0; font-size: 1.2rem; font-weight: bold;">Student Exchange Program</h3>
