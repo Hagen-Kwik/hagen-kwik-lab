@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Hagen Kwik</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/labs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>THM: Cupids Matchmaker Writeup</title>
+      <link>//localhost:1313/labs/cupids_matchmaker/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/labs/cupids_matchmaker/</guid>
+      <description>&lt;figure&gt;&#xD;&#xA;        &lt;img&#xD;&#xA;          class=&#34;my-0 rounded-md&#34;&#xD;&#xA;          loading=&#34;lazy&#34;&#xD;&#xA;          decoding=&#34;async&#34;&#xD;&#xA;          fetchpriority=&#34;auto&#34;&#xD;&#xA;          alt=&#34;&#34;&#xD;&#xA;          width=&#34;1153&#34;&#xD;&#xA;          height=&#34;697&#34;&#xD;&#xA;          src=&#34;//localhost:1313/labs/cupids_matchmaker/featured_hu_4d9cd7e5d68bfac.jpg&#34;&#xD;&#xA;          srcset=&#34;//localhost:1313/labs/cupids_matchmaker/featured_hu_4d9cd7e5d68bfac.jpg 800w,/labs/cupids_matchmaker/featured_hu_876de87102d181a3.jpg 1280w&#34;&#xD;&#xA;          sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;          data-zoom-src=&#34;//localhost:1313/labs/cupids_matchmaker/featured.jpg&#34;&#xD;&#xA;        /&gt;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;/figure&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Background Knowledge&#xD;&#xA;    &lt;div id=&#34;background-knowledge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#background-knowledge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This writeup is for &lt;code&gt;Cupids Matchmaker&lt;/code&gt;, a room in TryHackMe (THM) for Valentine&amp;rsquo;s 2026 Event. This room focuses on XSS Vulnerability.&lt;/p&gt;&#xA;&lt;p&gt;Cross-Site Scripting (XSS) is a condition when a web application accepts untrusted data from a user and sends it to a web browser without proper sanitazion. This allows an attacker to inject and execute malicious scripts (usually JavaScript) within the victim&amp;rsquo;s website. There are 3 main types of XXS. They are Stored, Reflected, and Blind XSS.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/labs/cupids_matchmaker/featured.jpg" />
+    </item>
     
     <item>
       <title>THM: TryHeartMe Writeup</title>

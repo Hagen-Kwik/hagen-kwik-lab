@@ -1,7 +1,7 @@
 ---
 title: "THM: TryHeartMe Writeup"
 date: 2026-02-26
-tags: ["THM", "Write Up"]
+tags: ["THM", "Write Up","JWT"]
 ---
 
 > [!TIP] Fun Fact

@@ -7,16 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Hagen Kwik</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/thm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First Writeup</title>
-      <link>//localhost:1313/labs/firstwu/</link>
+      <title>THM: Cupids Matchmaker Writeup</title>
+      <link>//localhost:1313/labs/cupids_matchmaker/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/labs/cupids_matchmaker/</guid>
+      <description>&lt;figure&gt;&#xD;&#xA;      &lt;img class=&#34;my-0 rounded-md&#34; src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;/figure&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Background Knowledge&#xD;&#xA;    &lt;div id=&#34;background-knowledge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#background-knowledge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This writeup is for &lt;code&gt;Cupids Matchmaker&lt;/code&gt;, a room in TryHackMe (THM) for Valentine&amp;rsquo;s 2026 Event. This room focuses on XXS Vulnerability.&lt;/p&gt;&#xA;&lt;p&gt;XXS is a condition when your browser can run a javascript code written by users injected through user inputs. This usually happens when inputs aren&amp;rsquo;t sanitized and are directly run by the code. There are 3 types of XXS, they are Stored, Reflected, and Blind XXS.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>THM: TryHeartMe Writeup</title>
+      <link>//localhost:1313/labs/tryheartme/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/labs/firstwu/</guid>
-      <description>&lt;p&gt;Your actual content starts here&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&lt;/p&gt;&#xA;&lt;p&gt;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&#xA;asdasdasd asc acacac as sca as sa cas a a ca a a aca ca a cas a as asc&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/labs/firstwu/featured.jpg" />
+      <guid>//localhost:1313/labs/tryheartme/</guid>
+      <description>&lt;div class=&#34;admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm&#34; data-type=&#34;tip&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;flex items-center gap-2 font-semibold text-inherit&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;flex shrink-0 h-5 w-5 items-center justify-center text-lg&#34;&gt;&lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 384 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM191.4 .0132C89.44 .3257 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.61 288.9-.2837 191.4 .0132zM192 96.01c-44.13 0-80 35.89-80 79.1C112 184.8 104.8 192 96 192S80 184.8 80 176c0-61.76 50.25-111.1 112-111.1c8.844 0 16 7.159 16 16S200.8 96.01 192 96.01z&#34;/&gt;&lt;/svg&gt;&#xD;&#xA;&lt;/span&gt;&lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;grow&#34;&gt;&#xD;&#xA;          Fun Fact&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&lt;div class=&#34;admonition-content mt-3 text-base leading-relaxed text-inherit&#34;&gt;&lt;p&gt;This is my first Writeup on my personal website. Hope you enjoy!&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/labs/tryheartme/featured.jpg" />
     </item>
     
   </channel>
