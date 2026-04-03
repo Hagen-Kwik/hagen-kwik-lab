@@ -4,24 +4,54 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/labs/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/thm/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/labs/chains_of_love/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/write-up/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/prompt-injection/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/labs/cupidbot/</loc>
+    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/tags/idor/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,13 +63,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/write-up/</loc>
+    <loc>//localhost:1313/labs/loveletterlock/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/xxs/</loc>
+    <loc>//localhost:1313/tags/xss/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
