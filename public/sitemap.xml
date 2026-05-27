@@ -3,111 +3,129 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/jwt/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/thm/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/chains_of_love/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/thm/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/write-up/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/the_great_disappearing_act/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/prompt-injection/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/write-up/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/security-misconfiguration/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/ssrf/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/chains_of_love/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/idor/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/loveletterlock/</loc>
+    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/prompt-injection/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/cupidbot/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/cupidbot/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/idor/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/cupids_matchmaker/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/cupids_matchmaker/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/xss/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/loveletterlock/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/xss/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/jwt/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/labs/tryheartme/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/labs/tryheartme/</loc>
-    <lastmod>2026-02-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/hagen-kwik-lab/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/resume/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/resume/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

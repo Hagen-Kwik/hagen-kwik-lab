@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSINT on Hagen Kwik&#39;s Lab</title>
+    <link>http://localhost:1313/hagen-kwik-lab/tags/osint/</link>
+    <description>Recent content in OSINT on Hagen Kwik&#39;s Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Hagen Kwik</copyright>
+    <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hagen-kwik-lab/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>THM: The Great Disappearing Act Writeup</title>
+      <link>http://localhost:1313/hagen-kwik-lab/labs/the_great_disappearing_act/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hagen-kwik-lab/labs/the_great_disappearing_act/</guid>
+      <description>&lt;figure&gt;&#xD;&#xA;      &lt;img class=&#34;my-0 rounded-md&#34; src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &lt;/figure&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Background Knowledge&#xD;&#xA;    &lt;div id=&#34;background-knowledge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#background-knowledge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This writeup is for &lt;code&gt;The Great Disappearing Act&lt;/code&gt;, a room in TryHackMe (THM) for Advent of Cyber (AoC) 2025 Side Quest&amp;rsquo;s Event. This room focuses on Open-Source Intelligence (OSINT), API Exploitation, and Docker Privilege Escalation.&lt;/p&gt;&#xA;&lt;p&gt;Open-Source Intelligence (OSINT) involves gathering, analyzing, and making decisions based on data accessible in the public domain.&#xA;More information on OSINT resources can be found through the OSINT Framework website &lt;a href=&#34;https://osintframework.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://osintframework.com/&lt;/a&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/hagen-kwik-lab/labs/the_great_disappearing_act/Featured.png" />
+    </item>
+    
+  </channel>
+</rss>

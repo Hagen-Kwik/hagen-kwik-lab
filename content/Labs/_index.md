@@ -1,5 +1,5 @@
 ---
-title: "Laboratory"
+title: "CTF WriteUps"
 description: "My technical writeups and research."
 layout: "list"
 background: "web_background.jpg"
