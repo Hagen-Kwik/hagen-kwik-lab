@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/api/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/docker/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/hagen-kwik-lab/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/tags/jwt/</loc>
-    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/osint/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,7 +45,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/the_great_disappearing_act/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/the_great_disappearing_act/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -41,6 +53,12 @@
   <url>
     <loc>http://localhost:1313/hagen-kwik-lab/tags/write-up/</loc>
     <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/hagen-kwik-lab/tags/jwt/</loc>
+    <lastmod>2026-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,7 +75,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/chains_of_love/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/chains_of_love/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -69,7 +87,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/loveletterlock/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/loveletterlock/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -81,13 +99,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/cupidbot/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/cupidbot/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/cupids_matchmaker/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/cupids_matchmaker/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -99,7 +117,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/labs/tryheartme/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/writeups/tryheartme/</loc>
     <lastmod>2026-02-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -110,22 +128,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/categories/</loc>
+    <loc>http://localhost:1313/hagen-kwik-lab/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/hagen-kwik-lab/resume/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/hagen-kwik-lab/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
