@@ -8,6 +8,7 @@ fathomAnalytics = { }
 verification = { }
 
 defaultBackgroundImage = "web_background.jpg"
+logo = "logo.png"
 
 [header]
 layout = "basic"
